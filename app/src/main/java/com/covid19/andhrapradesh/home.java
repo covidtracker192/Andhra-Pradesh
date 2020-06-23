@@ -173,12 +173,12 @@ public class home extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 new AlertDialog.Builder(home.this)
-                        .setTitle("Karnataka State COVID-19 Relief Fund.")
-                        .setMessage("You will be redirected to the official payment link of Karnataka State COVID-19 Relief Fund. Do you want to continue?")
+                        .setTitle("Andhra Pradesh State COVID-19 Relief Fund.")
+                        .setMessage("You will be redirected to the official payment link of Andhra Pradesh State COVID-19 Relief Fund. Do you want to continue?")
                         .setPositiveButton("Continue", new DialogInterface.OnClickListener() {
                             public void onClick(DialogInterface dialog, int which) {
                                 // Continue with COVID-19 karnataka relief fund
-                                Uri uriUrl = Uri.parse("https://cmrf.karnataka.gov.in/English/index.html");
+                                Uri uriUrl = Uri.parse("https://apcmrf.ap.gov.in/#donate");
                                 Intent launchBrowser = new Intent(Intent.ACTION_VIEW, uriUrl);
                                 startActivity(launchBrowser);
                             }
