@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995174042969",
+    "firebase_url": "https://andhra-pradesh-7f902.firebaseio.com",
+    "project_id": "andhra-pradesh-7f902",
+    "storage_bucket": "andhra-pradesh-7f902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995174042969:android:dae3455bb8478c60f41048",
+        "android_client_info": {
+          "package_name": "com.covid19.andhrapradesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995174042969-88bt0thd0ou2houjcrprgpg2rnqrtffn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.andhrapradesh",
+            "certificate_hash": "3db8cd558aff88d5fbd857bf239382aeafe23508"
+          }
+        },
+        {
+          "client_id": "995174042969-6kf9s8fdo474l4b8f252nmdfvtlf8tv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQkmXhQQRj24usC0A__hd3FI7DzdIcQwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995174042969-6kf9s8fdo474l4b8f252nmdfvtlf8tv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
